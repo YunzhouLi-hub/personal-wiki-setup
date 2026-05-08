@@ -115,7 +115,6 @@ After initialization, guides the user to:
 
 ## Related Resources | 参考资料
 
-- [超详细版：Obsidian + Claude Code 搭建个人知识库实践指南](https://www.cnblogs.com/AlayaNeW/articles/19902167) — 本文 Skill 的原始方法论来源
 - [Obsidian](https://obsidian.md) — 本地优先的知识管理工具
 - [Claude Code](https://docs.anthropic.com/en/docs/claude-code/overview) — AI 编程与自动化引擎
 
